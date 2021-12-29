@@ -1,3 +1,7 @@
+## ⚠️ Notice ⚠️
+
+I will suggest to you to use glitch or replit or you can't host the bot without url and give me the credit if you are using the code, this is Updated code we will update the code in next month's and jam future new codes will be added.
+
 ## Setup
 
 First of all, click on the "Lock" icon in the tab on the left. It will show you your repl's secrets. On this tab, add a new secret, set its name to `TOKEN` and its value to your discord bot token from the [discord developer dashboard](https://discord.com/developers/applications).
